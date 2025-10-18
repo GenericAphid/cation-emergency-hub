@@ -17,7 +17,7 @@ A comprehensive emergency safety and security application built with React, Type
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://your-username.github.io/cation-emergency-hub](https://your-username.github.io/cation-emergency-hub)
+Visit the live application: [https://genericaphid.github.io/cation-emergency-hub](https://genericaphid.github.io/cation-emergency-hub)
 
 ## 📱 Mobile App
 
